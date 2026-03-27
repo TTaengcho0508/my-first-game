@@ -6,8 +6,8 @@ import time
 pygame.init()
 
 # 해상도
-WIDTH = 1600
-HEIGHT = 1400
+WIDTH = 1200
+HEIGHT = 1000
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Dodge Game")
